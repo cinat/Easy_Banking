@@ -6,6 +6,8 @@ It is a bank account management system that enables customers to perform banking
 The aim is to convert the brick and mortar structure of traditional banking to click and portal model, thereby facilitating
 transactions by the customer round the clock.
 
+![Screenshot 1](https://user-images.githubusercontent.com/71981725/120069663-b8a62d80-c0a4-11eb-8bec-bc44db90022d.png)
+
 ## Built using:
 1. Language - JAVA core
 2. IDE - NetBeans
@@ -21,3 +23,5 @@ transactions by the customer round the clock.
 6. View account balance
 7. View transaction history
 8. Withdrawl using fast cash mode
+
+![Screenshot 5](https://user-images.githubusercontent.com/71981725/120069705-e8553580-c0a4-11eb-8acf-0605f2620c79.png)
